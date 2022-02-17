@@ -178,13 +178,3 @@ body{
 	width: 8px;
 	border-radius: 4px;
 }
-.ftr {
-	position: absolute;
-    bottom: 0px;
-    right: 50px;
-    height: 35px;
-    background: rgba(153, 255, 255, 0.356);
-    color: #000;
-    text-align: right;
-    padding: 10px 0px;	
-}
